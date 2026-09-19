@@ -1,21 +1,50 @@
 # john_pythonfiles
- a clear explanation of what the program does.
 
-a clean, GitHub-ready README with:
+## Python Programming Assignment
 
-Project title
+This repository contains beginner-level Python programs demonstrating basic programming concepts.
 
-Overview
+## Files
 
-Features
+| File   | Description                        |
+| ------ | ---------------------------------- |
+| `A.py` | Hello World program                |
+| `B.py` | Basic arithmetic operations        |
+| `C.py` | Variables and value reassignment   |
+| `D.py` | Python data types using `type()`   |
+| `E.py` | Variables, strings, and arithmetic |
 
-Requirements
+## Concepts
 
-How to run
+* Variables
+* Data types
+* Strings
+* Arithmetic operations
+* `print()` function
+* `type()` function
+* Variable reassignment
 
-Example output
+## Requirements
 
-Project structure (if applicable)
+* Python 3.x
 
-Author/license sections if needed
+## How to Run
+
+Clone the repository:
+
+```bash
+git clone https://github.com/ivanjohn7266-sketch/john_pythonfiles.git
+```
+
+Run a Python file:
+
+```bash
+python A.py
+```
+
+## Author
+
+**John Ivan**
+
+This repository is created for educational purposes.
 
